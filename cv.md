@@ -5,11 +5,11 @@
 
 ---
 
-**Phone:** +48 884950440  
-**E-mail:** july.matsukevich@mail.ru  
-**Telegram:** @juli_mats  
-**GitHub:** [JulyMats](https://github.com/JulyMats)  
-
+:iphone: **Phone:** +48 884950440  
+:incoming_envelope: **Telegram:** @juli_mats   
+:e-mail: **E-mail:** july.matsukevich@mail.ru  
+:octocat: **GitHub:** [JulyMats](https://github.com/JulyMats)  
+ 
 ## Education :
 
 ---
@@ -32,15 +32,42 @@ Bachelor of Computer Science
 
 ---
 
-## Soft skills:
+~~~js
+        function isBreakPoint(bp) {
+
+        var bps = [320, 480, 768, 1024];
+        var w = $(window).width();
+        var min, max;
+        for (var i = 0, l = bps.length; i < l; i++) {
+            if (bps[i] === bp) {
+            min = bps[i-1] || 0;
+            max = bps[i];
+            break;
+            }
+        }
+        return w > min && w <= max;
+}
+~~~
+
+## Professional Skills:
 
 ---
 
-+ problem-solving skills
-+ communication skills
++ HTML5/ CSS3
++ JavaScript Basics
++ Java Basics
++ VS Code, IntelliJ IDEA
++ Adobe Photoshop, Illustrator, Figma
+
+## Soft Skills:
+
+---
+
++ problem-solving 
++ teamwork
 + analytical skills
-+ innovative thinking
-+ attention to details
++ critical thinking skills
++ detail oriented
 
 ## Languages:
 
@@ -49,3 +76,13 @@ Bachelor of Computer Science
 + **English** - B2 (Upper-intermediate)
 + **Russian** - native speaker
 + **Polish** - B2 (Upper-intermediate)
+
+## Hobbies & interests:
+
+---
+
+:airplane: Travel   
+:camera: Photography  
+:snowboarder: Snowboarding  
+:art:  Digital art
+
