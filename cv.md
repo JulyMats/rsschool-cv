@@ -5,10 +5,10 @@
 
 ---
 
-✈️**Phone:** +48 884950440  
-📱**Telegram:** @juli_mats   
-**E-mail:** july.matsukevich@mail.ru  
-**GitHub:** [JulyMats](https://github.com/JulyMats)  
+📱**Phone:** +48 884950440  
+📨**Telegram:** @juli_mats   
+📧**E-mail:** july.matsukevich@mail.ru  
+:octocat:**GitHub:** [JulyMats](https://github.com/JulyMats)  
  
 ## Education :
 
@@ -81,8 +81,8 @@ Bachelor of Computer Science
 
 ---
 
-:airplane: Travel   
-:camera: Photography  
-:snowboarder: Snowboarding  
-:art:  Digital art
+✈️ Travel   
+📷 Photography  
+🏂 Snowboarding  
+🎭 Digital art
 
