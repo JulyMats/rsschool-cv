@@ -4,11 +4,11 @@
 ## Contact information:
 
 ---
-✈ ✈️
-:iphone: **Phone:** +48 884950440  
-:incoming_envelope: **Telegram:** @juli_mats   
-:e-mail: **E-mail:** july.matsukevich@mail.ru  
-:octocat: **GitHub:** [JulyMats](https://github.com/JulyMats)  
+
+✈️**Phone:** +48 884950440  
+📱**Telegram:** @juli_mats   
+**E-mail:** july.matsukevich@mail.ru  
+**GitHub:** [JulyMats](https://github.com/JulyMats)  
  
 ## Education :
 
@@ -64,10 +64,10 @@ Bachelor of Computer Science
 ---
 
 + problem-solving 
-+ teamwork
++ detail oriented
 + analytical skills
 + critical thinking skills
-+ detail oriented
++ teamwork
 
 ## Languages:
 
