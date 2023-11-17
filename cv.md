@@ -69,5 +69,21 @@ Bachelor of Computer Science
 + critical thinking skills
 + teamwork
 
+## Languages:
+
+---
+
++ **English** - B2 (Upper-intermediate)
++ **Russian** - native speaker
++ **Polish** - B2 (Upper-intermediate)
+
+## Hobbies & interests:
+
+---
+
+✈️ Travel   
+📷 Photography  
+🏂 Snowboarding  
+🎭 Digital art
 
 
