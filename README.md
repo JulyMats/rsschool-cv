@@ -1,1 +1,1 @@
-# rsschool-cv
+https://julymats.github.io/rsschool-cv/
